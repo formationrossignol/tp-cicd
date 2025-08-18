@@ -1,7 +1,7 @@
 
 ## Étapes du TP
 
-### 1. Connexion Jenkins ↔ Gitea
+### Connexion Jenkins ↔ Gitea
 - Ajouter le dépôt Gitea et les credentials dans Jenkins
 - Créer un **webhook** pour déclencher les builds à chaque push
 
