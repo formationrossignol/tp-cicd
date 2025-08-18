@@ -27,6 +27,7 @@ pipeline {
         failure { slackSend channel: '#dev-alerts', message: 'Build échoué !' }
     }
 }
+```
 
 ### Exécution et vérification
 - Pousser un commit dans Gitea
