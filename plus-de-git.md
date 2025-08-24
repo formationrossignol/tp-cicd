@@ -1,5 +1,3 @@
-# Schémas Mermaid pour les Commandes Git - Version Corrigée
-
 ## 1. git init
 **Initialiser un nouveau dépôt Git dans un dossier**
 ```mermaid
